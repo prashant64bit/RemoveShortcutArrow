@@ -37,6 +37,7 @@ Includes an undo script to restore the default shortcut arrow.
 |------|------------|
 | `RemoveShortcutArrow.reg` | Removes shortcut arrow overlay icon |
 | `UndoRemoveShortcutArrow.reg` | Restores default shortcut arrow icon |
+| `blank.ico` | Transparent icon used to override the shortcut arrow |
 
 ## Notes
 - Uses Windows Registry

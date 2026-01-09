@@ -1,12 +1,16 @@
 # RemoveShortcutArrow
 
-Removes the shortcut arrow overlay icon from Windows shortcuts using Windows Registry entries.  
+![Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows)  
+![License](https://img.shields.io/badge/license-MIT-green)  
+![Version](https://img.shields.io/badge/version-1.0.0-orange)  
+
+**RemoveShortcutArrow** Removes the shortcut arrow overlay icon from Windows shortcuts using Windows Registry entries.  
 Includes an undo script to restore the default shortcut arrow.
 
 ## Usage
 
 ### Goto Release
-1. Find latest release version
+1. Find latest **[Latest Release](https://github.com/<USERNAME>/<REPO>/releases/latest)**
 2. Goto Assets and find "RemoveShortcutArrow.zip"
 3. Click "RemoveShortcutArrow.zip"
 
@@ -39,3 +43,7 @@ Includes an undo script to restore the default shortcut arrow.
 - Administrator access required
 - Fully reversible
 - RemoveShortcutArrow Folder should not be deleted from C drive.
+
+## LICENSE
+This project is licensed under the [MIT License](LICENSE).  
+

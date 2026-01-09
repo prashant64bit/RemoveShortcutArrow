@@ -10,7 +10,7 @@ Includes an undo script to restore the default shortcut arrow.
 ## Usage
 
 ### Goto Release
-1. Find latest **[Latest Release](https://github.com/<USERNAME>/<REPO>/releases/latest)**
+1. Find latest **[Latest Release](https://github.com/Prashant64bit/RemoveShortcutArrow/releases/latest)**
 2. Goto Assets and find "RemoveShortcutArrow.zip"
 3. Click "RemoveShortcutArrow.zip"
 
